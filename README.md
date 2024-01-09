@@ -22,4 +22,3 @@ Description of my pet-projects on DS, ML and trading (from March 2022 until now)
 | API Development | Healthcare telegram-bot | A powerful tool based on machine learning method aimed on forminf user's individual diet, a training plan and overall lifestyle recommendations | … | In development |
 | CLI Development | A BMP image-processing realisation | An educational tool to perform various operations on BMP (Bitmap) images | … | Completed |
 | CLI Development | CLI Minesweeper | A raw educational tool to be implemented in various simple products | … | Completed |
-| 
