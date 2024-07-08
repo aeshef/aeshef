@@ -1,6 +1,6 @@
 👋 HEY THERE!
 
-I am Artem Shevchenko. Moscow, Russia. I am a DS enthusiast. I have ~2 years experience of programming. I have received and am receiving my knowledge in linear algebra, probability theory, discrete maths and mathematical statistics, ML, advanced Python, C++ and A&DS at the Faculty of Computer Science at HSE University. 
+I am Artem Shevchenko. Moscow, Russia. I am a DS enthusiast. I have ~2 years experience of programming ans receiving my knowledge in linear algebra, probability theory, discrete maths and mathematical statistics, ML, advanced Python, C++ and A&DS at the Faculty of Computer Science at HSE University. 
 
 Here on GitHub you can find some of my HSE educational projects. Currently i am in search of an internship in analytics or data science, including remote ones.
 
