@@ -42,9 +42,7 @@ Currently exploring the intersection of machine learning and quantitative financ
 | **[Retail Predictions](https://github.com/aeshef/retail_predictions)** | Retail point success using geospatial features | folium, sklearn | ✅ Complete |
 | **[Image Processor](https://github.com/aeshef/image_processor)** | BMP image processing library with filters | C++, CLI | ✅ Complete |
 | **[CLI Minesweeper](https://github.com/aeshef/minesweeper)** | Terminal-based minesweeper game | C++ | ✅ Complete |
-| **Algorithmic Trading Bot** | Telegram-integrated trading system for MOEX | Python, SQLite, telegram-bot | 🚧 In Progress |
-| **Crypto Time-Series Analysis** | ML models for cryptocurrency price prediction | LSTM, XGBoost, pandas | 🚧 In Progress |
-| **[Credit Scoring](https://github.com/aeshef/Credit-Scoring)** | WOE-based credit scoring with interpretable features | scikit-learn, pandas | 🚧 In Progress |
+| **[Credit Scoring](https://github.com/aeshef/Credit-Scoring)** | WOE-based credit scoring with interpretable features | scikit-learn, pandas | ✅ Complete |
 
 ### 📊 GitHub Stats
 
