@@ -71,6 +71,8 @@ Currently exploring the intersection of machine learning and quantitative financ
     "quant_finance": ["backtesting.py", "risk-models", "portfolio-optimization"],
     "systems": ["C++", "Bash", "Linux", "Networking"]
 }
+```
+
 📫 Let's Connect!
 
 ---
