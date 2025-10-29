@@ -25,9 +25,9 @@ I’m exploring quantitative research directions: portfolio construction (Black�
 ### 🏆 Featured Projects
 
 - **[bRECs](https://github.com/aeshef/bRECs)** — Bayesian Recommender / Portfolio OptimizerProbabilistic factors, fast inference (<50ms), A/B harness. PyTorch, FastAPI, Docker, Postgres.
+- **[Finam AI Chat](https://github.com/aeshef/Finam-AI-Chat)** — prize‑winning NL→TradeAPI assistant. Safety‑aware LLM to structured trade intents. FastAPI, Docker, policy layer.
 - **[GoodNotes‑AI‑Markup](https://github.com/aeshef/GoodNotes-AI-Markup)** — open dataset & tooling for handwriting recognitionCustom OD categories and OCR; labeling pipelines; export to HF; notebooks for training/eval.
 - **[Wiki‑RU](https://github.com/aeshef/Wiki-RU)** — Wikipedia gap parser & dataset builderDetects en→ru article gaps and exports curated datasets for downstream NLP; Python, asyncio; HF‑ready exports.
-- **[Finam AI Chat](https://github.com/aeshef/Finam-AI-Chat)** — prize‑winning NL→TradeAPI assistantSafety‑aware LLM to structured trade intents. FastAPI, Docker, policy layer.
 - **[MeBot](https://github.com/aeshef/MeBot)** — Excel/DB natural‑language agent (Telegram)
   Ask questions, get SQL/Excel actions and reports; LLM + Python; quick data workflows for ops.
 
