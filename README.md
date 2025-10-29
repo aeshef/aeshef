@@ -1,10 +1,5 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
-  Hi, I'm Artem Shevchenko
-</h1>
-
 <p align="center">
-  <b>Data Scientist @ Yandex • HSE Economics and Data Science</b><br/>
+  <b>LLM Evaluation & SFT • Search Quality • Portfolio/Execution Research</b>
 </p>
 
 <p align="center">
@@ -23,26 +18,18 @@
 
 ### 🚀 About Me
 
-Currently exploring the intersection of machine learning and quantitative finance through personal projects and HSE coursework. Passionate about building production-ready ML systems.
+I design ML systems that move product metrics: evaluation, data pipelines, and LLM fine‑tuning at scale. At Yandex Search (Neuro), my work improved answer recall by **+15%** and human‑evaluated quality by **+14–23%**, while scaling labeling ops to **100+** editors with strong QC.
 
-- 🔭 **Working on**: Yandex Neuro quality assessment at Yandex Search
-- 💡 **Interested in**: Algorithmic trading, ML Research, Recommender Systems, MLOps
-- 🎯 **Looking for**: Challenging opportunities in quantitative research or ML engineering
+I’m exploring quantitative research directions: portfolio construction (Black–Litterman, **CVaR**, **Kelly**) and **LOB**/**execution** (C++17). Time zone: **UTC+3 (MSK)**. Open to Quant Research/Dev and ML Engineering roles with measurable impact.
 
 ### 🏆 Featured Projects
 
-| Project | Description | Technologies | Status |
-|---------|-------------|--------------|---------|
-| **[Finam AI Chat](https://github.com/aeshef/Finam-AI-Chat)** | **🥈 Prize-winning** AI trader assistant converting NL to TradeAPI calls | FastAPI, LLM, Docker, Safety Policies | ✅ Complete |
-| **[SIRIUS RecSys](https://github.com/aeshef/SIRIUS)** | Cold-start resistant recommendation system for Goodreads dataset | ALS, LightFM, Hybrid Models | ✅ Complete |
-| **[VPN Template](https://github.com/aeshef/vpn-template)** | AmneziaWG/WireGuard + Xray + Telegram monitoring | Docker, Python, Telegram API | ✅ Complete |
-| **[bRECs](https://github.com/aeshef/bRECs)** | Bayesian Recommender System for portfolio optimization | PyTorch, FastAPI, PostgreSQL | ✅ Complete |
-| **[MOEX Data Parser](https://github.com/aeshef/TinkoffAPI-Historical-Data-Parser)** | High-performance parser for MOEX historical data | Python, asyncio, tinkoff-invest | ✅ Complete |
-| **[Music RecSys](https://github.com/aeshef/recommendation_system)** | Collaborative filtering for music recommendations | XGBoost, scipy | ✅ Complete |
-| **[Retail Predictions](https://github.com/aeshef/retail_predictions)** | Retail point success using geospatial features | folium, sklearn | ✅ Complete |
-| **[Image Processor](https://github.com/aeshef/image_processor)** | BMP image processing library with filters | C++, CLI | ✅ Complete |
-| **[CLI Minesweeper](https://github.com/aeshef/minesweeper)** | Terminal-based minesweeper game | C++ | ✅ Complete |
-| **[Credit Scoring](https://github.com/aeshef/Credit-Scoring)** | WOE-based credit scoring with interpretable features | scikit-learn, pandas | ✅ Complete |
+- **[bRECs](https://github.com/aeshef/bRECs)** — Bayesian Recommender / Portfolio OptimizerProbabilistic factors, fast inference (<50ms), A/B harness. PyTorch, FastAPI, Docker, Postgres.
+- **[GoodNotes‑AI‑Markup](https://github.com/aeshef/GoodNotes-AI-Markup)** — open dataset & tooling for handwriting recognitionCustom OD categories and OCR; labeling pipelines; export to HF; notebooks for training/eval.
+- **[Wiki‑RU](https://github.com/aeshef/Wiki-RU)** — Wikipedia gap parser & dataset builderDetects en→ru article gaps and exports curated datasets for downstream NLP; Python, asyncio; HF‑ready exports.
+- **[Finam AI Chat](https://github.com/aeshef/Finam-AI-Chat)** — prize‑winning NL→TradeAPI assistantSafety‑aware LLM to structured trade intents. FastAPI, Docker, policy layer.
+- **[MeBot](https://github.com/aeshef/MeBot)** — Excel/DB natural‑language agent (Telegram)
+  Ask questions, get SQL/Excel actions and reports; LLM + Python; quick data workflows for ops.
 
 ### 📊 GitHub Stats
 
@@ -51,31 +38,33 @@ Currently exploring the intersection of machine learning and quantitative financ
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeshef&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165">
 </p>
 
-### 🎓 Education
+### 🎓 Affiliations & Academics
 
-- **HSE University** - BSc Applied Mathematics & Computer Science (2022-2026)
-  - GPA: 8.2/10, Economics & Data Science track
-  - Relevant coursework: ML, Deep Learning, Stochastic Processes, Quantitative Finance, Econometrics
-  
-- **Languages:** English (C1 IELTS), Russian (Native), German (A1)
+- **HSE University** — Economics & Data ScienceRelevant: ML, Deep Learning, Stochastic Processes, Quantitative Finance, Econometrics
+- **YSDA (Yandex School of Data Analysis)** — ML (NLP, CV) — listener
+- **CMF (Center for Mathematical Finance)** — alumni; **Vega Fond** summer school participant
+
+### 🔍 Highlights & Contributions
+
+- Finam AI Trade — Winner (prize‑winning AI trader assistant; contributed to Finam Trade API usage)
+- Communities: CMF alumni; Vega Fond math finance summer school; YSDA ML track (listener)
+- Teaching: HSE — Teaching Assistant (ML‑1/ML‑2)
+- Open‑source: contributions across moexalgo/tinkoff‑invest ecosystem; opened GoodNotes‑AI‑Markup dataset/tooling
+- Research/side projects: CEX/DEX arbitrage modeling and LOB/microstructure notes (selected notebooks will be published)
 
 ### 🛠️ Tech Stack
 
-```python
+```json
 {
-    "ml_ops": ["Docker", "FastAPI", "MLflow", "DVC"],
-    "machine_learning": ["PyTorch", "scikit-learn", "XGBoost", "LightFM"],
-    "data_science": ["pandas", "numpy", "SQL", "asyncio"],
-    "quant_finance": ["backtesting.py", "risk-models", "portfolio-optimization"],
-    "systems": ["C++", "Bash", "Linux", "Networking"]
+  "ml_ops": ["Docker", "FastAPI", "MLflow", "DVC"],
+  "machine_learning": ["PyTorch", "scikit-learn", "XGBoost", "Transformers"],
+  "data_science": ["pandas", "numpy", "SQL", "asyncio"],
+  "quant_finance": ["backtesting.py", "portfolio-optimization", "risk-models"],
+  "systems": ["C++17", "Bash", "Linux", "Networking"]
 }
 ```
 
-📫 Let's Connect!
+### 📫 Let’s Connect
 
----
-
-I'm always interested in discussing ML, quantitative finance, or potential collaboration opportunities.
-
-<p align="left"> <a href="https://t.me/plxlrd"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"> </a> <a href="mailto:aeshevchenko1704@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> </a> <a href="https://www.linkedin.com/in/aeshef/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> </p>
-<p align="center"> <i>Open to opportunities in Quantitative Research, ML Engineering, and Data Science</i><br/> <i>Location: Moscow, Russia | Remote-friendly</i> </p> 
+Email • Telegram • LinkedIn
+Open to opportunities in Quantitative Research, ML Engineering, and Data Science
