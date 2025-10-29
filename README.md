@@ -28,7 +28,7 @@ I’m exploring quantitative research directions: portfolio construction (Black�
 - **[Finam AI Chat](https://github.com/aeshef/Finam-AI-Chat)** — prize‑winning NL→TradeAPI assistant. Safety‑aware LLM to structured trade intents. FastAPI, Docker, policy layer.
 - **[GoodNotes‑AI‑Markup](https://github.com/aeshef/GoodNotes-AI-Markup)** — open dataset & tooling for handwriting recognitionCustom OD categories and OCR; labeling pipelines; export to HF; notebooks for training/eval.
 - **[Wiki‑RU](https://github.com/aeshef/Wiki-RU)** — Wikipedia gap parser & dataset builderDetects en→ru article gaps and exports curated datasets for downstream NLP; Python, asyncio; HF‑ready exports.
-- **[MeBot](https://github.com/aeshef/MeBot)** — Excel/DB natural‑language agent (Telegram)
+- **[MeBot](https://github.com/aeshef/MeBot)** — Having fun on developing RLHF Me Bot
   Ask questions, get SQL/Excel actions and reports; LLM + Python; quick data workflows for ops.
 
 ### 📊 GitHub Stats
@@ -40,9 +40,10 @@ I’m exploring quantitative research directions: portfolio construction (Black�
 
 ### 🎓 Affiliations & Academics
 
-- **HSE University** — Economics & Data ScienceRelevant: ML, Deep Learning, Stochastic Processes, Quantitative Finance, Econometrics
+- **HSE University** — Economics & Data Science (Relevant: ML, Deep Learning, Stochastic Processes, Quantitative Finance, Econometrics)
 - **YSDA (Yandex School of Data Analysis)** — ML (NLP, CV) — listener
-- **CMF (Center for Mathematical Finance)** — alumni; **Vega Fond** summer school participant
+- **CMF (Center for Mathematical Finance)** — alumni;
+- **Vega Fond** summer school on DeFi participant
 
 ### 🔍 Highlights & Contributions
 
