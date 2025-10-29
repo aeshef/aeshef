@@ -20,7 +20,7 @@
 
 I design ML systems that move product metrics: evaluation, data pipelines, and LLM fine‑tuning at scale. At Yandex Search (Neuro), my work improved answer recall by **+15%** and human‑evaluated quality by **+14–23%**, while scaling labeling ops to **100+** editors with strong QC.
 
-I’m exploring quantitative research directions: portfolio construction (Black–Litterman, **CVaR**, **Kelly**) and **LOB**/**execution** (C++17). Time zone: **UTC+3 (MSK)**. Open to Quant Research/Dev and ML Engineering roles with measurable impact.
+I’m exploring quantitative research directions: portfolio construction (Black–Litterman, **CVaR**, **Kelly**) and **LOB**/**execution** (C++17). Time zone: **UTC+3 **. Open to Quant Research/Dev and ML Engineering roles with measurable impact.
 
 ### 🏆 Featured Projects
 
