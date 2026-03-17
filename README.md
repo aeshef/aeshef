@@ -43,7 +43,7 @@
 - Communities: CMF alumni; Vega Fond math finance summer school; YSDA ML track (listener)
 - Teaching: HSE — Teaching Assistant (ML‑1/ML‑2)
 - Open‑source: contributions across moexalgo/tinkoff‑invest ecosystem; GoodNotes‑AI contributor
-- Research/side projects: CEX/DEX arbitrage modeling and LOB/microstructure notes (selected notebooks will be published)
+- Research/side projects: CEX/DEX arbitrage modeling and LOB/microstructure notes
 
 ### 🛠️ Tech Stack
 
