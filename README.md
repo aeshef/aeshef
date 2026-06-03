@@ -55,10 +55,6 @@ Side research: ITMO Robotics Lab (3D visual grounding), Vega Fond (CEX–DEX arb
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeshef&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" height="165">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/aeshef?style=for-the-badge&logo=github" alt="Followers">
-  <img src="https://img.shields.io/github/stars/aeshef?style=for-the-badge&logo=github" alt="Stars">
-</p>
 
 ---
 
