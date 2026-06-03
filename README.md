@@ -1,5 +1,10 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+  Hi, I'm Artem — ML Engineer (UTC+3)
+</h1>
+
 <p align="center">
-  <b>Yandex Ads & Ex-Neuro • ML in Antifraud • Portfolio/Execution Research</b>
+  <b>Yandex Direct · Ex-Neuro · ITMO Robotics Lab · ML & applied research</b>
 </p>
 
 <p align="center">
@@ -16,48 +21,81 @@
 
 ---
 
-### 🏆 Featured Projects
+### About
 
-- **[bRECs](https://github.com/aeshef/bRECs)** — Bayesian Recommender / Portfolio OptimizerProbabilistic factors, fast inference (<50ms), A/B harness. PyTorch, FastAPI, Docker, Postgres.
-- **[Finam AI Chat](https://github.com/aeshef/Finam-AI-Chat)** — prize‑winning NL→TradeAPI assistant. Safety‑aware LLM to structured trade intents. FastAPI, Docker, policy layer.
-- **[GoodNotes‑AI‑Markup](https://github.com/aeshef/GoodNotes-AI-Markup)** — open dataset & tooling for handwriting recognitionCustom OD categories and OCR; labeling pipelines; export to HF; notebooks for training/eval.
-  Ask questions, get SQL/Excel actions and reports; LLM + Python; quick data workflows for ops.
+ML Engineer at Yandex Direct (Ads moderation & antifraud). Ex-Search Neuro — LLM eval, SFT, labeling ops.
 
-### 📊 GitHub Stats
+Side research: ITMO Robotics Lab (3D visual grounding), Vega Fond (CEX–DEX arbitrage), NLP (attention sinks). Senior TA ML-2 @ HSE.
+
+---
+
+### Featured Projects
+
+- **[obsidian-agent](https://github.com/aeshef/obsidian-agent)** — personal AI agent over Obsidian  
+  Kanban, routines, finance/health tracking, RAG over wikilinked notes.
+
+- **[bRECs](https://github.com/aeshef/bRECs)** — portfolio optimizer  
+  Black–Litterman, risk parity, mean-CVaR, Kelly. PyTorch, cvxpy, FastAPI.
+
+- **[Finam AI Chat](https://github.com/aeshef/Finam-AI-Chat)** — prize-winning NL→TradeAPI assistant  
+  Safety-aware LLM, structured trade intents. FastAPI, Docker.
+
+- **[GoodNotes-AI-Markup](https://github.com/aeshef/GoodNotes-AI-Markup)** — handwriting dataset & tooling  
+  Custom OD/OCR pipelines, HF export, training notebooks.
+
+- **[preference-influencing](https://github.com/aeshef/preference-influencing)** — persona vectors / model steering  
+  YSDA mentoring project (Anthropic Fellowship track).
+
+---
+
+### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aeshef&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeshef&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165">
+  <img src="https://streak-stats.demolab.com/?user=aeshef&theme=dark&hide_border=true" alt="GitHub Streak" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeshef&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" height="165">
 </p>
 
-### 🎓 Affiliations & Academics
+<p align="center">
+  <img src="https://img.shields.io/github/followers/aeshef?style=for-the-badge&logo=github" alt="Followers">
+  <img src="https://img.shields.io/github/stars/aeshef?style=for-the-badge&logo=github" alt="Stars">
+</p>
 
-- **HSE University** — Economics & Data Science (Relevant: ML, Deep Learning, Stochastic Processes, Quantitative Finance, Econometrics)
-- **YSDA (Yandex School of Data Analysis)** — ML (NLP, CV) — listener
-- **CMF (Center for Mathematical Finance)** — alumni;
-- **Vega Fond** summer school on DeFi participant
+---
 
-### 🔍 Highlights & Contributions
+### Affiliations
 
-- Finam AI Trade — Winner (prize‑winning AI trader assistant; contributed to Finam Trade API usage)
-- Communities: CMF alumni; Vega Fond math finance summer school; YSDA ML track (listener)
-- Teaching: HSE — Teaching Assistant (ML‑1/ML‑2)
-- Open‑source: contributions across moexalgo/tinkoff‑invest ecosystem; GoodNotes‑AI contributor
-- Research/side projects: CEX/DEX arbitrage modeling and LOB/microstructure notes
+- **HSE** — Economics & Applied Math (ML, econometrics, stochastic processes, quant finance)
+- **YSDA** — ML track (NLP, CV, RL, robotics)
+- **CMF** — graduate program, quantitative finance
+- **Vega Fond** — research group (CEX–DEX arbitrage)
+- **ITMO Robotics Lab** — 3D visual grounding
 
-### 🛠️ Tech Stack
+---
+
+### Highlights
+
+- Finam x FCS AI Trade Winner; Sber x ITMO Robotics School Winner
+- Senior TA — ML-1/ML-2 @ HSE; YSDA project mentor (persona vectors)
+- OSS: moexalgo / tinkoff-invest ecosystem; GoodNotes-AI-Markup
+
+---
+
+### Tech Stack
 
 ```json
 {
-  "ml_ops": ["Docker", "FastAPI", "MLflow", "DVC"],
-  "machine_learning": ["PyTorch", "scikit-learn", "XGBoost", "Transformers"],
-  "data_science": ["pandas", "numpy", "SQL", "asyncio"],
-  "quant_finance": ["backtesting.py", "portfolio-optimization", "risk-models"],
-  "systems": ["C++17", "Bash", "Linux", "Networking"]
+  "ml": ["PyTorch", "Transformers", "scikit-learn", "XGBoost"],
+  "ml_ops": ["Docker", "FastAPI", "MLflow", "Airflow"],
+  "data": ["Python", "SQL", "pandas", "ClickHouse"],
+  "quant": ["cvxpy", "backtesting.py", "portfolio-optimization"],
+  "systems": ["C++17", "Linux", "Bash"]
 }
 ```
 
-### 📫 Let’s Connect
+---
 
-Email • Telegram • LinkedIn
-Open to opportunities
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/aeshef/) · [Telegram](https://t.me/plxlrd) · [Email](mailto:aeshevchenko1704@gmail.com)
+
+Open to ML engineering and applied research roles. Remote/relocation.
