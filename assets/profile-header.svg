@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+<title id="title">Artem Shevchenko — ML engineer</title>
+<desc id="desc">An editorial nameplate in warm ivory, ink, and vermilion, with a layered geometric drawing.</desc>
+<defs><clipPath id="clip"><rect x="820" y="24" width="356" height="212" rx="4"/></clipPath></defs>
+<rect width="1200" height="260" rx="8" fill="#f3f0e8"/>
+<path d="M42 35H72" stroke="#c3472c" stroke-width="4"/>
+<text x="86" y="40" fill="#514e47" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" letter-spacing="2">ML ENGINEER / @AESHEF</text>
+<text x="40" y="122" fill="#242823" font-family="Georgia, 'Times New Roman', serif" font-size="69" letter-spacing="-2">Artem Shevchenko</text>
+<text x="44" y="171" fill="#514e47" font-family="Arial, Helvetica, sans-serif" font-size="19">Machine learning. Research. Things I build.</text>
+<path d="M44 221H762" stroke="#d4d0c5"/>
+<g clip-path="url(#clip)" fill="none" stroke-linecap="round">
+<path d="M855 205L1020 43L1160 184L998 222Z" stroke="#d4d0c5"/>
+<path d="M849 180C902 182 935 54 990 64S1086 216 1169 102" stroke="#242823" stroke-width="1.4"/>
+<path d="M849 190C902 192 935 64 990 74S1086 226 1169 112" stroke="#242823" stroke-width="1.4" opacity=".85"/>
+<path d="M849 200C902 202 935 74 990 84S1086 236 1169 122" stroke="#242823" stroke-width="1.4" opacity=".7"/>
+<path d="M849 210C902 212 935 84 990 94S1086 246 1169 132" stroke="#242823" stroke-width="1.4" opacity=".55"/>
+<path d="M849 170C902 172 935 44 990 54S1086 206 1169 92" stroke="#c3472c" stroke-width="3"/>
+<circle cx="990" cy="54" r="5" fill="#c3472c" stroke="#f3f0e8" stroke-width="3"/>
+<path d="M827 30h12m-6-6v12M1157 224h12m-6-6v12" stroke="#8f8b81"/>
+</g>
+</svg>
