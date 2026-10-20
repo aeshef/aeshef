@@ -4,7 +4,7 @@
 
 [Email](mailto:aeshevchenko1704@gmail.com) · [LinkedIn](https://www.linkedin.com/in/aeshef/) · [Telegram](https://t.me/plxlrd)
 
-I'm an ML engineer at **Yandex**. I work on applied machine learning, from experiments and evaluation to production systems.
+I'm an ML engineer. I work on applied machine learning, from experiments and evaluation to production systems.
 
 I teach machine learning at **HSE** and mentor student projects at the **Yandex School of Data Analysis**. My research interests extend to robotics and quantitative finance.
 
